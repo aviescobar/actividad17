@@ -1,7 +1,7 @@
 % Octave Script
 % Title            :Actividad 17 Funcion minimo material problema v2
 % Descrption       :Script para la graficacion del problema de la alberca
-% Authors          :Erick Gabriel Garcia, Alejandro Garcia Cruz
+% Authors          :Erick Gabriel Garcia, Alejandro Garcia Cruz, Victoria Avigail Escobar Noguez.
 % Date             :202123419
 % Version          :1
 % Usage			         :octave> /path/actividad17
