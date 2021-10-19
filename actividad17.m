@@ -1,7 +1,7 @@
 % Octave Script
 % Title            :Actividad 17 Funcion minimo material problema v2
 % Descrption       :Script para la graficacion del problema de la alberca
-% Authors          :Erick Gabriel Garcia, Alejandro Garcia Cruz
+% Authors          :Erick Gabriel Garcia, Alejandro Garcia Cruz, Victoria Avigail Escobar Noguez.
 % Date             :202123419
 % Version          :1
 % Usage			         :octave> /path/actividad17
@@ -23,7 +23,7 @@ a= (40)/6.324;
 %graficar
 ezplot((80/x)+(x*2));
 disp("Podemos deducir que el valor de los lados es: "), b, a
-
+disp("El dominio de la funcion es (-0.51,oo)")
 
 
 
